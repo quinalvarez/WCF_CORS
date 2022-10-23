@@ -1,0 +1,7 @@
+C:\Users\IRSA\source\repos\MyExample\MyExample\obj\Debug\MyExample.csproj.AssemblyReference.cache
+C:\Users\IRSA\source\repos\MyExample\MyExample\obj\Debug\MyExample.csproj.CoreCompileInputs.cache
+C:\Users\IRSA\source\repos\MyExample\MyExample\bin\MyExample.dll.config
+C:\Users\IRSA\source\repos\MyExample\MyExample\bin\MyExample.dll
+C:\Users\IRSA\source\repos\MyExample\MyExample\bin\MyExample.pdb
+C:\Users\IRSA\source\repos\MyExample\MyExample\obj\Debug\MyExample.dll
+C:\Users\IRSA\source\repos\MyExample\MyExample\obj\Debug\MyExample.pdb
